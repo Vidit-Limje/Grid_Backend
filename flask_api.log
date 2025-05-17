@@ -1,0 +1,192 @@
+2025-05-17 12:21:02,583 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:21:02,584 - INFO - Important features: ['temperature moisture_level', 'time_since_maintenance moisture_level', 'voltage temperature', 'temperature', 'temperature time_since_maintenance', 'current time_since_maintenance', 'current temperature', 'voltage time_since_maintenance', 'load time_since_maintenance', 'voltage moisture_level']
+2025-05-17 12:21:22,090 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:21:22,090 - INFO - Important features: ['temperature moisture_level', 'time_since_maintenance moisture_level', 'voltage temperature', 'temperature', 'temperature time_since_maintenance', 'current time_since_maintenance', 'current temperature', 'voltage time_since_maintenance', 'load time_since_maintenance', 'voltage moisture_level']
+2025-05-17 12:24:15,622 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:24:15,622 - INFO - Important features: ['temperature moisture_level', 'time_since_maintenance moisture_level', 'voltage temperature', 'temperature', 'temperature time_since_maintenance', 'current time_since_maintenance', 'current temperature', 'voltage time_since_maintenance', 'load time_since_maintenance', 'voltage moisture_level']
+2025-05-17 12:26:43,621 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:26:43,622 - INFO - Important features: ['temperature moisture_level', 'time_since_maintenance moisture_level', 'voltage temperature', 'temperature', 'temperature time_since_maintenance', 'current time_since_maintenance', 'current temperature', 'voltage time_since_maintenance', 'load time_since_maintenance', 'voltage moisture_level']
+2025-05-17 12:29:42,407 - ERROR - Requires Python (3, 12, 4), but found 3.9.0
+2025-05-17 12:34:27,436 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:34:27,471 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4999
+ * Running on http://172.17.10.208:4999
+2025-05-17 12:34:27,471 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:34:27,473 - INFO -  * Restarting with stat
+2025-05-17 12:34:29,853 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:34:29,855 - ERROR - Port 4999 is already in use. Please free the port or choose another.
+2025-05-17 12:34:55,286 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:34:55,323 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4999
+ * Running on http://172.17.10.208:4999
+2025-05-17 12:34:55,323 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:34:55,326 - INFO -  * Restarting with stat
+2025-05-17 12:34:57,802 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:34:57,804 - ERROR - Port 4999 is already in use. Please free the port or choose another.
+2025-05-17 12:37:19,034 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:37:19,072 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4999
+ * Running on http://172.17.10.208:4999
+2025-05-17 12:37:19,072 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:37:19,074 - INFO -  * Restarting with stat
+2025-05-17 12:37:21,614 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:37:21,615 - ERROR - Port 4999 is already in use. Please free the port or choose another.
+2025-05-17 12:38:38,407 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:38:38,446 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://172.17.10.208:10000
+2025-05-17 12:38:38,447 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:38:38,449 - INFO -  * Restarting with stat
+2025-05-17 12:38:40,896 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:38:40,898 - ERROR - Port 10000 is already in use. Please free the port or choose another.
+2025-05-17 12:40:06,275 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:40:06,312 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://172.17.10.208:10000
+2025-05-17 12:40:06,312 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:40:06,315 - INFO -  * Restarting with stat
+2025-05-17 12:40:08,715 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:40:08,733 - WARNING -  * Debugger is active!
+2025-05-17 12:40:08,743 - INFO -  * Debugger PIN: 845-717-081
+2025-05-17 12:40:24,651 - INFO - Received data: {'load': 9.821059070945331, 'voltage': 232.0977020178963, 'current': 0, 'temperature': 24.938918178276175, 'time_since_maintenance': 0.0008333333333333334, 'moisture_level': 0, 'lightning_surge': 0}
+2025-05-17 12:40:24,652 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:24,653 - INFO - 127.0.0.1 - - [17/May/2025 12:40:24] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:27,620 - INFO - Received data: {'load': 1.5668988328874232, 'voltage': 233.4873501682179, 'current': 0, 'temperature': 22.631014795788147, 'time_since_maintenance': 0.0016666666666666668, 'moisture_level': 1.9237312712873518, 'lightning_surge': 0}
+2025-05-17 12:40:27,621 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:27,622 - INFO - 127.0.0.1 - - [17/May/2025 12:40:27] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:30,627 - INFO - Received data: {'load': 10.02367963506917, 'voltage': 231.10428201053793, 'current': 0.8452904279748328, 'temperature': 23.89381737385863, 'time_since_maintenance': 0.0025, 'moisture_level': 1.3404785477564303, 'lightning_surge': 0}
+2025-05-17 12:40:30,628 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:30,628 - INFO - 127.0.0.1 - - [17/May/2025 12:40:30] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:33,627 - INFO - Received data: {'load': 2.1381776073647805, 'voltage': 231.64608958058756, 'current': 0.28892725550963494, 'temperature': 23.46699196158349, 'time_since_maintenance': 0.0033333333333333335, 'moisture_level': 3.420572599359577, 'lightning_surge': 0}
+2025-05-17 12:40:33,628 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:33,628 - INFO - 127.0.0.1 - - [17/May/2025 12:40:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:36,631 - INFO - Received data: {'load': 0, 'voltage': 229.82251658366903, 'current': 0, 'temperature': 25.361828748624916, 'time_since_maintenance': 0.004166666666666667, 'moisture_level': 4.832736241076602, 'lightning_surge': 0}
+2025-05-17 12:40:36,633 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:36,633 - INFO - 127.0.0.1 - - [17/May/2025 12:40:36] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:39,633 - INFO - Received data: {'load': 0, 'voltage': 228.3442099839133, 'current': 0.8565591605805536, 'temperature': 25.804699192433556, 'time_since_maintenance': 0.005, 'moisture_level': 7.095508285325747, 'lightning_surge': 0}
+2025-05-17 12:40:39,634 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:39,634 - INFO - 127.0.0.1 - - [17/May/2025 12:40:39] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:42,640 - INFO - Received data: {'load': 0, 'voltage': 229.70993569195448, 'current': 1.1466690974900153, 'temperature': 23.42264867909353, 'time_since_maintenance': 0.005833333333333334, 'moisture_level': 5.128376623117665, 'lightning_surge': 0}
+2025-05-17 12:40:42,640 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:42,641 - INFO - 127.0.0.1 - - [17/May/2025 12:40:42] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:45,639 - INFO - Received data: {'load': 1.1927918470427201, 'voltage': 228.36501889284426, 'current': 0.2703207768220861, 'temperature': 25.326870353425676, 'time_since_maintenance': 0.006666666666666667, 'moisture_level': 5.714304854887084, 'lightning_surge': 0}
+2025-05-17 12:40:45,640 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:45,641 - INFO - 127.0.0.1 - - [17/May/2025 12:40:45] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:48,645 - INFO - Received data: {'load': 9.62582913617102, 'voltage': 230.7634962831069, 'current': 0.049144974462440594, 'temperature': 23.150997156505166, 'time_since_maintenance': 0.007500000000000001, 'moisture_level': 5.6482945355182865, 'lightning_surge': 0}
+2025-05-17 12:40:48,646 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:48,647 - INFO - 127.0.0.1 - - [17/May/2025 12:40:48] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:51,656 - INFO - Received data: {'load': 10.115315307739767, 'voltage': 232.73394237667435, 'current': 0, 'temperature': 23.41737995887128, 'time_since_maintenance': 0.008333333333333333, 'moisture_level': 4.740557283874331, 'lightning_surge': 0}
+2025-05-17 12:40:51,657 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:51,657 - INFO - 127.0.0.1 - - [17/May/2025 12:40:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:54,663 - INFO - Received data: {'load': 16.569015333752166, 'voltage': 232.85548827074595, 'current': 0, 'temperature': 22.331124005575827, 'time_since_maintenance': 0.009166666666666667, 'moisture_level': 4.332104233816219, 'lightning_surge': 0}
+2025-05-17 12:40:54,664 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:54,665 - INFO - 127.0.0.1 - - [17/May/2025 12:40:54] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:40:57,677 - INFO - Received data: {'load': 23.41185166361886, 'voltage': 231.5478772573973, 'current': 0, 'temperature': 23.477545920844364, 'time_since_maintenance': 0.01, 'moisture_level': 3.322569482988132, 'lightning_surge': 0}
+2025-05-17 12:40:57,678 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:40:57,678 - INFO - 127.0.0.1 - - [17/May/2025 12:40:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:41:00,687 - INFO - Received data: {'load': 32.84430533982385, 'voltage': 234.01224762144153, 'current': 0, 'temperature': 25.41146358168968, 'time_since_maintenance': 0.010833333333333334, 'moisture_level': 2.7440735924332573, 'lightning_surge': 0}
+2025-05-17 12:41:00,688 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:41:00,689 - INFO - 127.0.0.1 - - [17/May/2025 12:41:00] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:41:03,689 - INFO - Received data: {'load': 30.64700218229272, 'voltage': 231.8304066070703, 'current': 0.7307929230134169, 'temperature': 24.125095779481235, 'time_since_maintenance': 0.011666666666666667, 'moisture_level': 2.2508818256160668, 'lightning_surge': 0}
+2025-05-17 12:41:03,690 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:41:03,691 - INFO - 127.0.0.1 - - [17/May/2025 12:41:03] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:45:27,682 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:45:27,722 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://172.17.10.208:10000
+2025-05-17 12:45:27,722 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 12:45:27,725 - INFO -  * Restarting with stat
+2025-05-17 12:45:30,174 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 12:45:30,190 - WARNING -  * Debugger is active!
+2025-05-17 12:45:30,197 - INFO -  * Debugger PIN: 845-717-081
+2025-05-17 12:45:40,659 - INFO - Received data: {'load': 0.6570451837278579, 'voltage': 228.02264442951437, 'current': 0.4777682270384642, 'temperature': 22.960086279597622, 'time_since_maintenance': 0.0008333333333333334, 'moisture_level': 0, 'lightning_surge': 0}
+2025-05-17 12:45:40,660 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:45:40,660 - INFO - 127.0.0.1 - - [17/May/2025 12:45:40] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 12:45:43,630 - INFO - Received data: {'load': 0, 'voltage': 227.08703552248082, 'current': 1.3255555242315133, 'temperature': 25.20615637025188, 'time_since_maintenance': 0.0016666666666666668, 'moisture_level': 0, 'lightning_surge': 0}
+2025-05-17 12:45:43,631 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 12:45:43,632 - INFO - 127.0.0.1 - - [17/May/2025 12:45:43] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:12:04,221 - INFO -  * Detected change in 'C:\\Users\\vidit\\OneDrive\\Desktop\\Gird-Guardians-main\\Electric-Grid-Management\\Backend\\Transformers\\model.py', reloading
+2025-05-17 13:12:04,432 - INFO -  * Restarting with stat
+2025-05-17 13:12:16,263 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 13:12:16,279 - WARNING -  * Debugger is active!
+2025-05-17 13:12:16,286 - INFO -  * Debugger PIN: 845-717-081
+2025-05-17 13:12:18,402 - INFO -  * Detected change in 'C:\\Users\\vidit\\OneDrive\\Desktop\\Gird-Guardians-main\\Electric-Grid-Management\\Backend\\Transformers\\model.py', reloading
+2025-05-17 13:12:18,622 - INFO -  * Restarting with stat
+2025-05-17 13:12:21,087 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 13:12:21,101 - WARNING -  * Debugger is active!
+2025-05-17 13:12:21,108 - INFO -  * Debugger PIN: 845-717-081
+2025-05-17 13:12:30,574 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 13:12:30,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://172.17.10.208:10000
+2025-05-17 13:12:30,611 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 13:12:30,613 - INFO -  * Restarting with stat
+2025-05-17 13:12:33,052 - INFO - Model, transformers, and features loaded successfully
+2025-05-17 13:12:33,067 - WARNING -  * Debugger is active!
+2025-05-17 13:12:33,076 - INFO -  * Debugger PIN: 845-717-081
+2025-05-17 13:12:44,265 - INFO - Received data: {'load': 0, 'voltage': 232.3011035846474, 'current': 0.34683136297446326, 'temperature': 24.29247975920329, 'time_since_maintenance': 0.0008333333333333334, 'moisture_level': 0, 'lightning_surge': 0}
+2025-05-17 13:12:44,267 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 13:12:44,267 - INFO - 127.0.0.1 - - [17/May/2025 13:12:44] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:12:47,241 - INFO - Received data: {'load': 0, 'voltage': 232.34265719271832, 'current': 0, 'temperature': 25.50648756079501, 'time_since_maintenance': 0.0016666666666666668, 'moisture_level': 0, 'lightning_surge': 0}
+2025-05-17 13:12:47,242 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 13:12:47,243 - INFO - 127.0.0.1 - - [17/May/2025 13:12:47] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:12:50,247 - INFO - Received data: {'load': 0, 'voltage': 232.05405132847042, 'current': 0.4077870738042857, 'temperature': 25.6651362311657, 'time_since_maintenance': 0.0025, 'moisture_level': 2.430653423927991, 'lightning_surge': 0}
+2025-05-17 13:12:50,248 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 13:12:50,248 - INFO - 127.0.0.1 - - [17/May/2025 13:12:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:12:53,248 - INFO - Received data: {'load': 0, 'voltage': 230.23129130900392, 'current': 0, 'temperature': 27.90861976032534, 'time_since_maintenance': 0.0033333333333333335, 'moisture_level': 1.4066955073180354, 'lightning_surge': 0}
+2025-05-17 13:12:53,249 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 13:12:53,250 - INFO - 127.0.0.1 - - [17/May/2025 13:12:53] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:12:56,252 - INFO - Received data: {'load': 0, 'voltage': 231.9577329889994, 'current': 0.6928210754596695, 'temperature': 30.287773711172154, 'time_since_maintenance': 0.004166666666666667, 'moisture_level': 1.140547848930871, 'lightning_surge': 0}
+2025-05-17 13:12:56,253 - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+2025-05-17 13:12:56,253 - INFO - 127.0.0.1 - - [17/May/2025 13:12:56] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-17 13:14:07,758 - INFO -  * Detected change in 'C:\\Users\\vidit\\OneDrive\\Desktop\\Gird-Guardians-main\\Electric-Grid-Management\\Backend\\Transformers\\model.py', reloading
+2025-05-17 13:14:07,967 - INFO -  * Restarting with stat

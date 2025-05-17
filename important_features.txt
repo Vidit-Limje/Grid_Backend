@@ -1,0 +1,10 @@
+temperature moisture_level
+time_since_maintenance moisture_level
+voltage temperature
+temperature
+temperature time_since_maintenance
+current time_since_maintenance
+current temperature
+voltage time_since_maintenance
+load time_since_maintenance
+voltage moisture_level

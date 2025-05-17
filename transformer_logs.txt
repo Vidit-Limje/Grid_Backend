@@ -1,0 +1,2275 @@
+=== Transformer Data (Logged at 16/5/2025, 6:07:31 pm) ===
+Transformer T1:
+  Load: 70.08 kW
+  Voltage: 225.89 V
+  Current: 4.72 A
+  Temperature: 20.20 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 77.01 kW
+  Voltage: 235.08 V
+  Current: 1.19 A
+  Temperature: 23.44 °C
+  Status: Normal
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:34 pm) ===
+Transformer T1:
+  Load: 70.08 kW
+  Voltage: 225.89 V
+  Current: 4.72 A
+  Temperature: 20.20 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 85.60 kW
+  Voltage: 234.09 V
+  Current: 1.44 A
+  Temperature: 21.02 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:37 pm) ===
+Transformer T1:
+  Load: 74.47 kW
+  Voltage: 225.92 V
+  Current: 4.35 A
+  Temperature: 18.19 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 91.56 kW
+  Voltage: 232.82 V
+  Current: 1.76 A
+  Temperature: 18.71 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:40 pm) ===
+Transformer T1:
+  Load: 83.73 kW
+  Voltage: 225.57 V
+  Current: 4.57 A
+  Temperature: 18.12 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 82.59 kW
+  Voltage: 230.49 V
+  Current: 2.09 A
+  Temperature: 17.88 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:43 pm) ===
+Transformer T1:
+  Load: 75.13 kW
+  Voltage: 225.94 V
+  Current: 5.01 A
+  Temperature: 20.47 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 85.95 kW
+  Voltage: 230.24 V
+  Current: 1.93 A
+  Temperature: 19.63 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:46 pm) ===
+Transformer T1:
+  Load: 72.31 kW
+  Voltage: 228.06 V
+  Current: 4.82 A
+  Temperature: 21.97 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 89.51 kW
+  Voltage: 228.28 V
+  Current: 1.39 A
+  Temperature: 17.16 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:49 pm) ===
+Transformer T1:
+  Load: 79.80 kW
+  Voltage: 225.60 V
+  Current: 4.26 A
+  Temperature: 22.20 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 84.61 kW
+  Voltage: 230.52 V
+  Current: 2.16 A
+  Temperature: 16.72 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:52 pm) ===
+Transformer T1:
+  Load: 76.53 kW
+  Voltage: 225.05 V
+  Current: 3.11 A
+  Temperature: 20.83 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 80.81 kW
+  Voltage: 231.24 V
+  Current: 3.07 A
+  Temperature: 16.68 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:55 pm) ===
+Transformer T1:
+  Load: 85.94 kW
+  Voltage: 225.70 V
+  Current: 2.13 A
+  Temperature: 21.56 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 89.53 kW
+  Voltage: 232.86 V
+  Current: 2.47 A
+  Temperature: 15.10 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:07:58 pm) ===
+Transformer T1:
+  Load: 88.78 kW
+  Voltage: 227.39 V
+  Current: 2.88 A
+  Temperature: 19.31 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 97.97 kW
+  Voltage: 231.68 V
+  Current: 3.00 A
+  Temperature: 15.16 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:01 pm) ===
+Transformer T1:
+  Load: 82.57 kW
+  Voltage: 225.15 V
+  Current: 3.43 A
+  Temperature: 17.22 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 91.57 kW
+  Voltage: 232.12 V
+  Current: 2.82 A
+  Temperature: 15.00 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:04 pm) ===
+Transformer T1:
+  Load: 74.62 kW
+  Voltage: 223.18 V
+  Current: 2.71 A
+  Temperature: 16.24 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 95.39 kW
+  Voltage: 233.85 V
+  Current: 2.70 A
+  Temperature: 16.86 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:07 pm) ===
+Transformer T1:
+  Load: 83.35 kW
+  Voltage: 221.68 V
+  Current: 2.03 A
+  Temperature: 16.15 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 94.43 kW
+  Voltage: 234.60 V
+  Current: 3.04 A
+  Temperature: 16.92 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:10 pm) ===
+Transformer T1:
+  Load: 77.21 kW
+  Voltage: 222.27 V
+  Current: 1.68 A
+  Temperature: 15.00 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 99.89 kW
+  Voltage: 235.35 V
+  Current: 2.14 A
+  Temperature: 16.27 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:13 pm) ===
+Transformer T1:
+  Load: 70.70 kW
+  Voltage: 220.14 V
+  Current: 1.63 A
+  Temperature: 15.00 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 97.04 kW
+  Voltage: 235.87 V
+  Current: 3.07 A
+  Temperature: 16.78 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:16 pm) ===
+Transformer T1:
+  Load: 75.41 kW
+  Voltage: 220.00 V
+  Current: 2.14 A
+  Temperature: 16.36 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 90.94 kW
+  Voltage: 234.04 V
+  Current: 3.56 A
+  Temperature: 17.18 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:19 pm) ===
+Transformer T1:
+  Load: 84.23 kW
+  Voltage: 221.15 V
+  Current: 1.18 A
+  Temperature: 15.00 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 97.88 kW
+  Voltage: 233.83 V
+  Current: 2.68 A
+  Temperature: 18.71 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:22 pm) ===
+Transformer T1:
+  Load: 88.54 kW
+  Voltage: 220.02 V
+  Current: 0.94 A
+  Temperature: 15.00 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 100.00 kW
+  Voltage: 236.00 V
+  Current: 2.61 A
+  Temperature: 19.77 °C
+  Status: Overloaded
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:25 pm) ===
+Transformer T1:
+  Load: 82.90 kW
+  Voltage: 220.00 V
+  Current: 0.08 A
+  Temperature: 16.41 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 97.54 kW
+  Voltage: 235.23 V
+  Current: 1.78 A
+  Temperature: 17.54 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:28 pm) ===
+Transformer T1:
+  Load: 77.96 kW
+  Voltage: 220.00 V
+  Current: 0.00 A
+  Temperature: 18.09 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 100.00 kW
+  Voltage: 237.30 V
+  Current: 2.36 A
+  Temperature: 19.29 °C
+  Status: Overloaded
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:31 pm) ===
+Transformer T1:
+  Load: 72.62 kW
+  Voltage: 220.00 V
+  Current: 0.24 A
+  Temperature: 16.47 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 94.85 kW
+  Voltage: 237.54 V
+  Current: 1.57 A
+  Temperature: 18.46 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:08:34 pm) ===
+Transformer T1:
+  Load: 80.57 kW
+  Voltage: 220.00 V
+  Current: 0.83 A
+  Temperature: 18.44 °C
+  Status: Approaching Overload
+
+Transformer T2:
+  Load: 100.00 kW
+  Voltage: 238.59 V
+  Current: 0.90 A
+  Temperature: 17.45 °C
+  Status: Overloaded
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:32:24 pm) ===
+Transformer T1:
+  Load: 18.73 kW
+  Voltage: 220.08 V
+  Current: 8.58 A
+  Temperature: 16.63 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 79.04 kW
+  Voltage: 223.27 V
+  Current: 6.60 A
+  Temperature: 38.57 °C
+  Status: Normal
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:32:27 pm) ===
+Transformer T1:
+  Load: 19.65 kW
+  Voltage: 221.23 V
+  Current: 7.73 A
+  Temperature: 16.45 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 84.09 kW
+  Voltage: 224.44 V
+  Current: 6.89 A
+  Temperature: 40.80 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:32:30 pm) ===
+Transformer T1:
+  Load: 10.06 kW
+  Voltage: 222.73 V
+  Current: 8.27 A
+  Temperature: 18.78 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 81.77 kW
+  Voltage: 225.93 V
+  Current: 6.93 A
+  Temperature: 41.79 °C
+  Status: Approaching Overload
+
+Failed to fetch data from Transformer T3: 
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:38 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 232.11 V
+  Current: 0.00 A
+  Temperature: 29.18 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 3.17 kW
+  Voltage: 231.50 V
+  Current: 0.71 A
+  Temperature: 26.07 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 4.81 kW
+  Voltage: 230.33 V
+  Current: 0.78 A
+  Temperature: 24.11 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:41 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 233.16 V
+  Current: 0.29 A
+  Temperature: 28.59 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 232.65 V
+  Current: 1.14 A
+  Temperature: 26.74 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 4.48 kW
+  Voltage: 229.69 V
+  Current: 0.00 A
+  Temperature: 24.30 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:44 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 234.10 V
+  Current: 0.00 A
+  Temperature: 30.40 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 232.71 V
+  Current: 1.66 A
+  Temperature: 27.22 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 230.10 V
+  Current: 0.05 A
+  Temperature: 23.14 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:47 pm) ===
+Transformer T1:
+  Load: 1.62 kW
+  Voltage: 235.58 V
+  Current: 0.43 A
+  Temperature: 30.64 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 232.99 V
+  Current: 1.33 A
+  Temperature: 26.24 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 232.49 V
+  Current: 0.00 A
+  Temperature: 24.07 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:50 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 235.68 V
+  Current: 0.17 A
+  Temperature: 29.77 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 231.47 V
+  Current: 2.00 A
+  Temperature: 28.66 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 232.48 V
+  Current: 0.00 A
+  Temperature: 22.24 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:53 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 236.54 V
+  Current: 0.00 A
+  Temperature: 28.22 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 3.16 kW
+  Voltage: 229.02 V
+  Current: 2.12 A
+  Temperature: 27.20 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 234.11 V
+  Current: 0.78 A
+  Temperature: 19.82 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:56 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 235.39 V
+  Current: 0.33 A
+  Temperature: 26.77 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.28 kW
+  Voltage: 226.71 V
+  Current: 2.37 A
+  Temperature: 26.08 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 0.71 kW
+  Voltage: 233.71 V
+  Current: 0.06 A
+  Temperature: 20.31 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 6:53:59 pm) ===
+Transformer T1:
+  Load: 9.65 kW
+  Voltage: 233.90 V
+  Current: 0.00 A
+  Temperature: 27.07 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 1.52 kW
+  Voltage: 227.80 V
+  Current: 1.86 A
+  Temperature: 24.55 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 3.62 kW
+  Voltage: 236.00 V
+  Current: 0.00 A
+  Temperature: 21.98 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:11:45 pm) ===
+Transformer T1:
+  Load: 33.22 kW
+  Voltage: 224.14 V
+  Current: 1.42 A
+  Temperature: 27.64 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 1.80 kW
+  Voltage: 232.14 V
+  Current: 0.84 A
+  Temperature: 33.23 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 6.68 kW
+  Voltage: 229.68 V
+  Current: 2.18 A
+  Temperature: 23.21 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:11:48 pm) ===
+Transformer T1:
+  Load: 38.63 kW
+  Voltage: 225.42 V
+  Current: 1.89 A
+  Temperature: 25.86 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 230.45 V
+  Current: 0.29 A
+  Temperature: 33.81 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 15.55 kW
+  Voltage: 227.36 V
+  Current: 2.18 A
+  Temperature: 24.22 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:11:51 pm) ===
+Transformer T1:
+  Load: 48.42 kW
+  Voltage: 225.08 V
+  Current: 1.63 A
+  Temperature: 24.87 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 4.02 kW
+  Voltage: 232.38 V
+  Current: 0.65 A
+  Temperature: 35.10 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 24.53 kW
+  Voltage: 226.66 V
+  Current: 2.33 A
+  Temperature: 23.50 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:11:54 pm) ===
+Transformer T1:
+  Load: 42.61 kW
+  Voltage: 224.33 V
+  Current: 0.89 A
+  Temperature: 26.92 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 1.12 kW
+  Voltage: 232.08 V
+  Current: 0.98 A
+  Temperature: 36.93 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 33.67 kW
+  Voltage: 228.16 V
+  Current: 2.73 A
+  Temperature: 22.40 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:11:57 pm) ===
+Transformer T1:
+  Load: 34.73 kW
+  Voltage: 223.36 V
+  Current: 0.78 A
+  Temperature: 27.20 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 232.43 V
+  Current: 0.16 A
+  Temperature: 34.83 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 26.76 kW
+  Voltage: 226.87 V
+  Current: 3.38 A
+  Temperature: 20.27 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:12:00 pm) ===
+Transformer T1:
+  Load: 43.93 kW
+  Voltage: 221.86 V
+  Current: 1.42 A
+  Temperature: 26.70 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 7.31 kW
+  Voltage: 231.47 V
+  Current: 0.00 A
+  Temperature: 33.01 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 17.07 kW
+  Voltage: 229.11 V
+  Current: 3.44 A
+  Temperature: 21.83 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 7:12:03 pm) ===
+Transformer T1:
+  Load: 46.96 kW
+  Voltage: 222.06 V
+  Current: 1.05 A
+  Temperature: 24.90 °C
+  Status: Normal
+
+Transformer T2:
+  Load: 16.96 kW
+  Voltage: 230.02 V
+  Current: 0.16 A
+  Temperature: 31.54 °C
+  Status: Normal
+
+Transformer T3:
+  Load: 16.36 kW
+  Voltage: 231.55 V
+  Current: 2.64 A
+  Temperature: 21.29 °C
+  Status: Normal
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:23 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 230.99 V
+  Current: 1.25 A
+  Temperature: 22.37 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 235.41 V
+  Current: 0.49 A
+  Temperature: 29.35 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 10.30 kW
+  Voltage: 223.51 V
+  Current: 2.64 A
+  Temperature: 34.72 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:26 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 231.92 V
+  Current: 0.86 A
+  Temperature: 23.08 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 233.95 V
+  Current: 0.77 A
+  Temperature: 28.86 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 4.01 kW
+  Voltage: 225.24 V
+  Current: 2.53 A
+  Temperature: 33.50 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:29 pm) ===
+Transformer T1:
+  Load: 8.76 kW
+  Voltage: 231.67 V
+  Current: 1.24 A
+  Temperature: 24.24 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 4.43 kW
+  Voltage: 235.27 V
+  Current: 0.00 A
+  Temperature: 29.49 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 7.77 kW
+  Voltage: 223.64 V
+  Current: 2.00 A
+  Temperature: 34.63 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:32 pm) ===
+Transformer T1:
+  Load: 6.66 kW
+  Voltage: 231.57 V
+  Current: 1.06 A
+  Temperature: 24.64 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 7.11 kW
+  Voltage: 233.14 V
+  Current: 0.93 A
+  Temperature: 31.88 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 221.23 V
+  Current: 2.37 A
+  Temperature: 34.39 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:35 pm) ===
+Transformer T1:
+  Load: 14.09 kW
+  Voltage: 233.75 V
+  Current: 1.93 A
+  Temperature: 23.18 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 8.54 kW
+  Voltage: 233.75 V
+  Current: 0.98 A
+  Temperature: 33.80 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.77 kW
+  Voltage: 221.30 V
+  Current: 2.03 A
+  Temperature: 33.54 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:38 pm) ===
+Transformer T1:
+  Load: 13.08 kW
+  Voltage: 234.67 V
+  Current: 1.84 A
+  Temperature: 22.74 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 17.30 kW
+  Voltage: 232.07 V
+  Current: 1.96 A
+  Temperature: 34.68 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.62 kW
+  Voltage: 223.64 V
+  Current: 1.99 A
+  Temperature: 31.91 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:41 pm) ===
+Transformer T1:
+  Load: 6.53 kW
+  Voltage: 232.19 V
+  Current: 2.44 A
+  Temperature: 20.57 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 10.28 kW
+  Voltage: 230.00 V
+  Current: 2.54 A
+  Temperature: 32.35 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.90 kW
+  Voltage: 225.36 V
+  Current: 1.73 A
+  Temperature: 33.60 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:44 pm) ===
+Transformer T1:
+  Load: 11.30 kW
+  Voltage: 234.61 V
+  Current: 2.53 A
+  Temperature: 18.08 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 2.77 kW
+  Voltage: 228.25 V
+  Current: 3.16 A
+  Temperature: 34.85 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 7.72 kW
+  Voltage: 225.14 V
+  Current: 0.88 A
+  Temperature: 32.62 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:47 pm) ===
+Transformer T1:
+  Load: 5.58 kW
+  Voltage: 235.69 V
+  Current: 1.80 A
+  Temperature: 17.35 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 230.31 V
+  Current: 3.97 A
+  Temperature: 35.64 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 15.73 kW
+  Voltage: 225.15 V
+  Current: 1.83 A
+  Temperature: 32.60 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:50 pm) ===
+Transformer T1:
+  Load: 7.26 kW
+  Voltage: 235.25 V
+  Current: 2.24 A
+  Temperature: 19.60 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 4.27 kW
+  Voltage: 229.26 V
+  Current: 3.87 A
+  Temperature: 34.45 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 19.13 kW
+  Voltage: 226.33 V
+  Current: 1.90 A
+  Temperature: 33.41 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:53 pm) ===
+Transformer T1:
+  Load: 2.61 kW
+  Voltage: 235.03 V
+  Current: 1.36 A
+  Temperature: 18.78 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 231.04 V
+  Current: 4.24 A
+  Temperature: 32.03 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 23.16 kW
+  Voltage: 224.17 V
+  Current: 1.32 A
+  Temperature: 32.60 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:56 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 233.05 V
+  Current: 0.71 A
+  Temperature: 18.20 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 233.19 V
+  Current: 4.09 A
+  Temperature: 31.17 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 22.86 kW
+  Voltage: 224.96 V
+  Current: 0.39 A
+  Temperature: 33.62 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:43:59 pm) ===
+Transformer T1:
+  Load: 1.69 kW
+  Voltage: 232.97 V
+  Current: 0.24 A
+  Temperature: 19.46 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 233.58 V
+  Current: 4.97 A
+  Temperature: 31.43 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 20.12 kW
+  Voltage: 227.46 V
+  Current: 0.00 A
+  Temperature: 35.64 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:44:02 pm) ===
+Transformer T1:
+  Load: 10.11 kW
+  Voltage: 230.65 V
+  Current: 0.04 A
+  Temperature: 20.88 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 4.61 kW
+  Voltage: 231.62 V
+  Current: 5.45 A
+  Temperature: 30.98 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 11.48 kW
+  Voltage: 225.08 V
+  Current: 0.00 A
+  Temperature: 33.56 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:44:05 pm) ===
+Transformer T1:
+  Load: 3.25 kW
+  Voltage: 232.54 V
+  Current: 0.26 A
+  Temperature: 20.08 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 2.18 kW
+  Voltage: 230.75 V
+  Current: 6.42 A
+  Temperature: 30.01 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 19.83 kW
+  Voltage: 223.17 V
+  Current: 0.00 A
+  Temperature: 33.81 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:44:08 pm) ===
+Transformer T1:
+  Load: 1.68 kW
+  Voltage: 233.90 V
+  Current: 0.08 A
+  Temperature: 19.62 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 2.02 kW
+  Voltage: 231.01 V
+  Current: 5.47 A
+  Temperature: 27.60 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 21.09 kW
+  Voltage: 224.06 V
+  Current: 0.08 A
+  Temperature: 34.27 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:06 pm) ===
+Transformer T1:
+  Load: 10.66 kW
+  Voltage: 231.32 V
+  Current: 2.45 A
+  Temperature: 18.90 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 31.25 kW
+  Voltage: 229.03 V
+  Current: 7.34 A
+  Temperature: 42.59 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.55 kW
+  Voltage: 230.40 V
+  Current: 6.23 A
+  Temperature: 31.48 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:09 pm) ===
+Transformer T1:
+  Load: 4.93 kW
+  Voltage: 233.78 V
+  Current: 2.45 A
+  Temperature: 16.86 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 28.62 kW
+  Voltage: 229.78 V
+  Current: 7.68 A
+  Temperature: 41.42 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 228.07 V
+  Current: 6.35 A
+  Temperature: 32.10 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:12 pm) ===
+Transformer T1:
+  Load: 2.48 kW
+  Voltage: 231.83 V
+  Current: 2.21 A
+  Temperature: 15.09 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 22.56 kW
+  Voltage: 228.18 V
+  Current: 8.09 A
+  Temperature: 42.38 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.37 kW
+  Voltage: 230.42 V
+  Current: 6.04 A
+  Temperature: 31.52 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:15 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 231.71 V
+  Current: 2.84 A
+  Temperature: 15.89 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 19.43 kW
+  Voltage: 227.93 V
+  Current: 7.67 A
+  Temperature: 44.25 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 1.29 kW
+  Voltage: 230.07 V
+  Current: 5.99 A
+  Temperature: 30.70 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:18 pm) ===
+Transformer T1:
+  Load: 6.54 kW
+  Voltage: 232.38 V
+  Current: 3.46 A
+  Temperature: 15.00 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 26.74 kW
+  Voltage: 226.28 V
+  Current: 8.38 A
+  Temperature: 42.44 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 227.71 V
+  Current: 5.44 A
+  Temperature: 32.54 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:21 pm) ===
+Transformer T1:
+  Load: 7.75 kW
+  Voltage: 232.76 V
+  Current: 3.18 A
+  Temperature: 16.31 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 16.80 kW
+  Voltage: 224.70 V
+  Current: 7.38 A
+  Temperature: 44.20 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 229.75 V
+  Current: 5.22 A
+  Temperature: 33.35 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:24 pm) ===
+Transformer T1:
+  Load: 11.45 kW
+  Voltage: 233.30 V
+  Current: 2.31 A
+  Temperature: 18.66 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 15.37 kW
+  Voltage: 224.11 V
+  Current: 7.94 A
+  Temperature: 41.73 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.47 kW
+  Voltage: 229.25 V
+  Current: 5.66 A
+  Temperature: 33.84 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:27 pm) ===
+Transformer T1:
+  Load: 3.00 kW
+  Voltage: 233.67 V
+  Current: 2.83 A
+  Temperature: 19.06 °C
+  Status: Failure Not Present
+
+Failed to fetch data from Transformer T2: 
+
+Transformer T3:
+  Load: 1.76 kW
+  Voltage: 229.08 V
+  Current: 5.47 A
+  Temperature: 35.67 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 8:48:30 pm) ===
+Failed to fetch data from Transformer T1: 
+
+Failed to fetch data from Transformer T2: 
+
+Transformer T3:
+  Load: 6.27 kW
+  Voltage: 227.51 V
+  Current: 4.76 A
+  Temperature: 37.00 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:28 pm) ===
+Transformer T1:
+  Load: 10.97 kW
+  Voltage: 223.52 V
+  Current: 1.35 A
+  Temperature: 23.02 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 4.40 kW
+  Voltage: 230.19 V
+  Current: 0.00 A
+  Temperature: 24.41 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.85 kW
+  Voltage: 229.39 V
+  Current: 0.21 A
+  Temperature: 27.25 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:31 pm) ===
+Transformer T1:
+  Load: 16.09 kW
+  Voltage: 222.09 V
+  Current: 1.82 A
+  Temperature: 22.26 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.42 kW
+  Voltage: 230.10 V
+  Current: 0.00 A
+  Temperature: 24.34 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 228.12 V
+  Current: 0.62 A
+  Temperature: 28.25 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:34 pm) ===
+Transformer T1:
+  Load: 24.18 kW
+  Voltage: 223.13 V
+  Current: 1.02 A
+  Temperature: 24.23 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 229.98 V
+  Current: 0.68 A
+  Temperature: 26.24 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 227.28 V
+  Current: 1.31 A
+  Temperature: 29.09 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:37 pm) ===
+Transformer T1:
+  Load: 26.76 kW
+  Voltage: 222.08 V
+  Current: 1.08 A
+  Temperature: 25.70 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 229.07 V
+  Current: 0.28 A
+  Temperature: 24.47 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 228.90 V
+  Current: 1.94 A
+  Temperature: 31.40 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:40 pm) ===
+Transformer T1:
+  Load: 25.63 kW
+  Voltage: 224.38 V
+  Current: 0.81 A
+  Temperature: 26.17 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 9.88 kW
+  Voltage: 230.10 V
+  Current: 0.26 A
+  Temperature: 22.70 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 228.16 V
+  Current: 1.56 A
+  Temperature: 31.22 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:43 pm) ===
+Transformer T1:
+  Load: 25.20 kW
+  Voltage: 222.04 V
+  Current: 0.81 A
+  Temperature: 26.24 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 16.22 kW
+  Voltage: 228.47 V
+  Current: 0.62 A
+  Temperature: 21.93 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 1.39 kW
+  Voltage: 227.56 V
+  Current: 1.90 A
+  Temperature: 29.56 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:46 pm) ===
+Transformer T1:
+  Load: 23.76 kW
+  Voltage: 221.75 V
+  Current: 0.12 A
+  Temperature: 28.71 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 8.40 kW
+  Voltage: 226.47 V
+  Current: 1.01 A
+  Temperature: 20.01 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 226.40 V
+  Current: 2.21 A
+  Temperature: 28.43 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:49 pm) ===
+Transformer T1:
+  Load: 22.08 kW
+  Voltage: 222.84 V
+  Current: 0.60 A
+  Temperature: 28.16 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 1.07 kW
+  Voltage: 228.45 V
+  Current: 0.08 A
+  Temperature: 21.41 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 227.65 V
+  Current: 1.47 A
+  Temperature: 27.30 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:52 pm) ===
+Transformer T1:
+  Load: 13.68 kW
+  Voltage: 222.01 V
+  Current: 0.11 A
+  Temperature: 29.92 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 5.31 kW
+  Voltage: 226.25 V
+  Current: 0.03 A
+  Temperature: 21.36 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.33 kW
+  Voltage: 226.71 V
+  Current: 0.79 A
+  Temperature: 29.33 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:55 pm) ===
+Transformer T1:
+  Load: 14.51 kW
+  Voltage: 223.22 V
+  Current: 1.07 A
+  Temperature: 30.16 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 6.47 kW
+  Voltage: 223.87 V
+  Current: 0.00 A
+  Temperature: 22.80 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.40 kW
+  Voltage: 227.07 V
+  Current: 0.19 A
+  Temperature: 27.86 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:56:58 pm) ===
+Transformer T1:
+  Load: 9.99 kW
+  Voltage: 225.61 V
+  Current: 1.37 A
+  Temperature: 29.04 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 224.74 V
+  Current: 0.00 A
+  Temperature: 21.05 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 227.68 V
+  Current: 0.52 A
+  Temperature: 29.10 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:01 pm) ===
+Transformer T1:
+  Load: 8.69 kW
+  Voltage: 224.80 V
+  Current: 0.80 A
+  Temperature: 30.22 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 6.25 kW
+  Voltage: 226.94 V
+  Current: 0.70 A
+  Temperature: 22.49 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 229.68 V
+  Current: 0.42 A
+  Temperature: 29.25 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:04 pm) ===
+Transformer T1:
+  Load: 2.67 kW
+  Voltage: 224.61 V
+  Current: 1.47 A
+  Temperature: 30.34 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 226.39 V
+  Current: 0.00 A
+  Temperature: 20.03 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 4.88 kW
+  Voltage: 229.12 V
+  Current: 0.77 A
+  Temperature: 26.79 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:07 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 226.43 V
+  Current: 1.60 A
+  Temperature: 29.65 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.75 kW
+  Voltage: 225.57 V
+  Current: 0.68 A
+  Temperature: 21.63 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 1.88 kW
+  Voltage: 228.12 V
+  Current: 1.43 A
+  Temperature: 25.96 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:10 pm) ===
+Transformer T1:
+  Load: 5.87 kW
+  Voltage: 226.94 V
+  Current: 2.38 A
+  Temperature: 28.19 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 5.39 kW
+  Voltage: 227.35 V
+  Current: 0.85 A
+  Temperature: 23.06 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.54 kW
+  Voltage: 226.41 V
+  Current: 1.08 A
+  Temperature: 27.06 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:13 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 227.05 V
+  Current: 1.98 A
+  Temperature: 26.25 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 8.04 kW
+  Voltage: 226.09 V
+  Current: 0.02 A
+  Temperature: 25.02 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.00 kW
+  Voltage: 224.44 V
+  Current: 0.45 A
+  Temperature: 29.17 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:16 pm) ===
+Transformer T1:
+  Load: 1.26 kW
+  Voltage: 224.84 V
+  Current: 1.42 A
+  Temperature: 26.37 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 6.08 kW
+  Voltage: 227.67 V
+  Current: 0.00 A
+  Temperature: 27.07 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.98 kW
+  Voltage: 222.51 V
+  Current: 0.00 A
+  Temperature: 29.28 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:19 pm) ===
+Transformer T1:
+  Load: 7.64 kW
+  Voltage: 222.99 V
+  Current: 0.69 A
+  Temperature: 26.25 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 8.65 kW
+  Voltage: 229.14 V
+  Current: 0.79 A
+  Temperature: 26.78 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 8.70 kW
+  Voltage: 224.22 V
+  Current: 0.69 A
+  Temperature: 29.46 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:22 pm) ===
+Transformer T1:
+  Load: 9.48 kW
+  Voltage: 223.04 V
+  Current: 0.30 A
+  Temperature: 24.13 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 2.69 kW
+  Voltage: 230.80 V
+  Current: 0.59 A
+  Temperature: 25.36 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 8.29 kW
+  Voltage: 223.90 V
+  Current: 0.47 A
+  Temperature: 31.45 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:25 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 224.08 V
+  Current: 0.30 A
+  Temperature: 26.30 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 230.24 V
+  Current: 1.53 A
+  Temperature: 23.98 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 15.06 kW
+  Voltage: 223.05 V
+  Current: 0.55 A
+  Temperature: 32.75 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:28 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 222.08 V
+  Current: 0.00 A
+  Temperature: 25.29 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 231.84 V
+  Current: 1.54 A
+  Temperature: 21.70 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 12.76 kW
+  Voltage: 224.94 V
+  Current: 0.17 A
+  Temperature: 30.31 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:31 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 224.41 V
+  Current: 0.82 A
+  Temperature: 24.00 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 231.57 V
+  Current: 2.29 A
+  Temperature: 22.57 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 14.90 kW
+  Voltage: 223.03 V
+  Current: 0.00 A
+  Temperature: 30.61 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:34 pm) ===
+Transformer T1:
+  Load: 8.13 kW
+  Voltage: 222.94 V
+  Current: 1.30 A
+  Temperature: 23.50 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 5.42 kW
+  Voltage: 232.28 V
+  Current: 1.74 A
+  Temperature: 22.51 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 18.62 kW
+  Voltage: 222.36 V
+  Current: 0.00 A
+  Temperature: 30.76 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:37 pm) ===
+Transformer T1:
+  Load: 2.97 kW
+  Voltage: 222.48 V
+  Current: 2.05 A
+  Temperature: 21.73 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 13.67 kW
+  Voltage: 234.50 V
+  Current: 2.17 A
+  Temperature: 22.12 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 20.33 kW
+  Voltage: 223.14 V
+  Current: 0.00 A
+  Temperature: 29.66 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:40 pm) ===
+Transformer T1:
+  Load: 2.99 kW
+  Voltage: 222.90 V
+  Current: 2.92 A
+  Temperature: 22.55 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 15.53 kW
+  Voltage: 233.17 V
+  Current: 2.78 A
+  Temperature: 19.85 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 21.84 kW
+  Voltage: 224.50 V
+  Current: 0.00 A
+  Temperature: 28.37 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:43 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 225.37 V
+  Current: 3.79 A
+  Temperature: 22.38 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 12.78 kW
+  Voltage: 232.77 V
+  Current: 3.66 A
+  Temperature: 20.09 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 17.45 kW
+  Voltage: 224.46 V
+  Current: 0.25 A
+  Temperature: 27.86 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:46 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 224.29 V
+  Current: 3.33 A
+  Temperature: 24.41 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 7.16 kW
+  Voltage: 235.21 V
+  Current: 2.69 A
+  Temperature: 22.30 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 14.74 kW
+  Voltage: 226.83 V
+  Current: 0.00 A
+  Temperature: 30.24 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:49 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 224.92 V
+  Current: 2.47 A
+  Temperature: 25.47 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 5.93 kW
+  Voltage: 234.65 V
+  Current: 3.09 A
+  Temperature: 20.37 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 20.17 kW
+  Voltage: 229.22 V
+  Current: 0.34 A
+  Temperature: 30.90 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:52 pm) ===
+Transformer T1:
+  Load: 1.92 kW
+  Voltage: 222.90 V
+  Current: 2.20 A
+  Temperature: 25.35 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 13.29 kW
+  Voltage: 234.19 V
+  Current: 2.27 A
+  Temperature: 18.30 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 14.80 kW
+  Voltage: 228.61 V
+  Current: 1.21 A
+  Temperature: 28.97 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:55 pm) ===
+Transformer T1:
+  Load: 1.34 kW
+  Voltage: 223.67 V
+  Current: 2.19 A
+  Temperature: 26.36 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 12.46 kW
+  Voltage: 232.74 V
+  Current: 2.54 A
+  Temperature: 19.92 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 15.29 kW
+  Voltage: 229.74 V
+  Current: 1.09 A
+  Temperature: 29.71 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:57:58 pm) ===
+Transformer T1:
+  Load: 1.29 kW
+  Voltage: 224.13 V
+  Current: 1.20 A
+  Temperature: 24.60 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 6.42 kW
+  Voltage: 234.63 V
+  Current: 2.96 A
+  Temperature: 18.90 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 10.26 kW
+  Voltage: 229.92 V
+  Current: 0.91 A
+  Temperature: 30.41 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:01 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 222.75 V
+  Current: 0.96 A
+  Temperature: 26.47 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 7.99 kW
+  Voltage: 236.96 V
+  Current: 3.44 A
+  Temperature: 19.29 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.80 kW
+  Voltage: 228.76 V
+  Current: 0.98 A
+  Temperature: 29.00 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:04 pm) ===
+Transformer T1:
+  Load: 1.38 kW
+  Voltage: 221.98 V
+  Current: 1.56 A
+  Temperature: 28.52 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 2.71 kW
+  Voltage: 237.98 V
+  Current: 2.44 A
+  Temperature: 19.41 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 2.01 kW
+  Voltage: 226.57 V
+  Current: 0.87 A
+  Temperature: 26.86 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:07 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 220.09 V
+  Current: 2.38 A
+  Temperature: 28.96 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 6.77 kW
+  Voltage: 238.54 V
+  Current: 1.85 A
+  Temperature: 19.15 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 1.26 kW
+  Voltage: 225.08 V
+  Current: 1.73 A
+  Temperature: 24.57 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:10 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 220.00 V
+  Current: 2.17 A
+  Temperature: 29.76 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 239.83 V
+  Current: 0.89 A
+  Temperature: 19.20 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 4.58 kW
+  Voltage: 224.82 V
+  Current: 2.57 A
+  Temperature: 24.06 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:13 pm) ===
+Transformer T1:
+  Load: 9.90 kW
+  Voltage: 220.99 V
+  Current: 2.03 A
+  Temperature: 30.87 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 240.00 V
+  Current: 1.22 A
+  Temperature: 21.07 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 0.85 kW
+  Voltage: 227.24 V
+  Current: 2.26 A
+  Temperature: 24.53 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:16 pm) ===
+Transformer T1:
+  Load: 0.88 kW
+  Voltage: 222.90 V
+  Current: 1.94 A
+  Temperature: 28.84 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 240.00 V
+  Current: 0.49 A
+  Temperature: 23.29 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 5.05 kW
+  Voltage: 225.40 V
+  Current: 2.03 A
+  Temperature: 23.33 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:19 pm) ===
+Transformer T1:
+  Load: 0.00 kW
+  Voltage: 223.31 V
+  Current: 2.82 A
+  Temperature: 28.10 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 0.00 kW
+  Voltage: 240.00 V
+  Current: 1.00 A
+  Temperature: 23.89 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 7.11 kW
+  Voltage: 224.71 V
+  Current: 1.56 A
+  Temperature: 21.15 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:23 pm) ===
+Transformer T1:
+  Load: 1.08 kW
+  Voltage: 222.93 V
+  Current: 2.62 A
+  Temperature: 28.27 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 4.51 kW
+  Voltage: 239.64 V
+  Current: 0.29 A
+  Temperature: 22.93 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 10.33 kW
+  Voltage: 224.01 V
+  Current: 1.86 A
+  Temperature: 19.66 °C
+  Status: Failure Not Present
+
+
+=== Transformer Data (Logged at 16/5/2025, 9:58:26 pm) ===
+Transformer T1:
+  Load: 0.16 kW
+  Voltage: 222.58 V
+  Current: 3.00 A
+  Temperature: 26.39 °C
+  Status: Failure Not Present
+
+Transformer T2:
+  Load: 8.43 kW
+  Voltage: 240.00 V
+  Current: 1.15 A
+  Temperature: 22.60 °C
+  Status: Failure Not Present
+
+Transformer T3:
+  Load: 16.19 kW
+  Voltage: 221.85 V
+  Current: 2.54 A
+  Temperature: 21.39 °C
+  Status: Failure Not Present
+
+
